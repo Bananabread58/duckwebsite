@@ -1,1 +1,19 @@
 /* TODO 1 (Tuesday): style your nav bar here. */
+header { background-color: navy;
+    padding: 16px;
+}
+
+.logo {
+   color: white;
+   font-size: 24px;
+}
+
+ul {
+    display: flex;
+    gap: 20px; 
+    list-style: none;
+}
+
+a {
+    color: white;
+}
