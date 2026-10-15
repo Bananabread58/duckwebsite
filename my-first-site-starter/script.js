@@ -2,6 +2,8 @@
 const siteName = "Duck";
 
 // TODO 2 (Thursday): make a variable called visitCount holding a number.
+let visitCount = 10; 
+showNewLabel = false
 
 
 // TODO 3 (Thursday): give visitCount a new, bigger number.
