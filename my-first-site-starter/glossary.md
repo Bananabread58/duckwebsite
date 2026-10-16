@@ -23,3 +23,7 @@ Added nice pretty things to CSS. Navbar is styled
 **JavaScript** WEDNESDAY WEEK 1
 Now it shows duck for the logo!
 
+
+**JavaScript** THURSDAY WEEK 1
+Added boolean and let statements
+
