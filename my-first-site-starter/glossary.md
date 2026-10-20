@@ -27,3 +27,13 @@ Now it shows duck for the logo!
 **JavaScript** THURSDAY WEEK 1
 Added boolean and let statements
 
+
+## Week 2, Monday (Html)
+Section: an element that groups related things on a page
+Heading: The big important title for the page, runs from h1-h6
+Button: Adds a button people can click
+
+## Week 2, Tuesday (CSS)
+Padding: Padding is the extra fluff between the content and border of the box
+Border: The lining of the box
+Margin: The space thats outside of the box between other items

@@ -17,3 +17,17 @@ ul {
 a {
     color: white;
 }
+.hero {
+    background-color: lightblue;
+    padding: 40px;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+}
+button {
+    padding: 12px;
+    border: 2px solid navy;
+    border-radius: 8px;
+    margin: 16px;
+}
