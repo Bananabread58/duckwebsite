@@ -17,3 +17,4 @@ showNewLabel = false
 document.querySelector(".logo").textContent = siteName;
 document.querySelector(".visits").textContent = "Visits: " + visitCount;
 document.querySelector(".new-label").hidden = !showNewLabel;
+document.querySelector("h1").textContent = "Whats up?";

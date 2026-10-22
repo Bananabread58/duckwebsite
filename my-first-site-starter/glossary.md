@@ -37,3 +37,10 @@ Button: Adds a button people can click
 Padding: Padding is the extra fluff between the content and border of the box
 Border: The lining of the box
 Margin: The space thats outside of the box between other items
+
+
+## Week 2, Wednesday (Javascript)
+
+DOM: Live copy of the browsers page that javascript can edit
+querySelector: Searches for the first element that matches with the CSS selector
+textContent: The content inside the text
