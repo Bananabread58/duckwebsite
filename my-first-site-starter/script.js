@@ -7,8 +7,7 @@ showNewLabel = false
 
 
 // TODO 3 (Thursday): give visitCount a new, bigger number.
-const heroTitle = h1;
-heroTitle.textContent = "Hi welcome to this page"
+
 
 // TODO 4 (Thursday): make a variable called showNewLabel holding true or false.
 
@@ -19,3 +18,6 @@ document.querySelector(".logo").textContent = siteName;
 document.querySelector(".visits").textContent = "Visits: " + visitCount;
 document.querySelector(".new-label").hidden = !showNewLabel;
 document.querySelector("h1").textContent = "Whats up?";
+
+const heroTitle = h1;
+heroTitle.textContent = '${heroTitle}Hi welcome to this page'

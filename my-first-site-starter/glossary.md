@@ -44,3 +44,8 @@ Margin: The space thats outside of the box between other items
 DOM: Live copy of the browsers page that javascript can edit
 querySelector: Searches for the first element that matches with the CSS selector
 textContent: The content inside the text
+
+## Week 2, Thursday (Javascript)
+template variable: back ticks that can contain variables in a string
+backtick: Starts and end the template
+placeholder: Its replaced by a variables value and used inside a template literal
