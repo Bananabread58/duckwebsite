@@ -36,3 +36,16 @@ button {
     font-style: italic;
     color: blanchedalmond;
 }
+
+#hero-button {
+    cursor: pointer;
+    background-color: blanchedalmond;
+}
+#hero-button:hover {
+    background-color: darkslateblue;
+    color: black;
+}
+
+#hero-button:active {
+    background-color: darkslategrey;
+}

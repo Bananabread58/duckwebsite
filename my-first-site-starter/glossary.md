@@ -23,7 +23,7 @@ Button: Adds a button people can click
 Padding: Padding is the extra fluff between the content and border of the box
 Border: The lining of the box
 Margin: The space thats outside of the box between other items
-
+-
 
 ## Week 2, Wednesday (Javascript)
 
@@ -35,3 +35,13 @@ textContent: The content inside the text
 template variable: back ticks that can contain variables in a string
 backtick: Starts and end the template
 placeholder: Its replaced by a variables value and used inside a template literal
+
+
+##Week 3, Monday (HTML and CSS)
+Id: An element with its own name
+id selector: The hashtag that picks the id
+
+##week 3, Tuesday (CSS)
+Psuedo class: color after a word that only happens when an element is in a certain state 
+hover: The mouse hovering over something 
+cursor: The mouse's pointer
