@@ -26,3 +26,6 @@ heroTitle.textContent = '${heroTitle}Hi welcome to this page'
 function showMessage() {
     document.querySelector("h1").textContent = "Sup brochachino, welcome to ${siteName} my dude";
 }
+
+const showMessage = document.querySelector("#hero-button");
+heroButton.addEventListener("click", showMessage)

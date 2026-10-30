@@ -45,3 +45,8 @@ id selector: The hashtag that picks the id
 Psuedo class: color after a word that only happens when an element is in a certain state 
 hover: The mouse hovering over something 
 cursor: The mouse's pointer
+
+##week 3, Wednesday (JS)
+Function: Instructions to run when you need it.
+Call: Calls the function over and whips it to work
+function body: the instructions inside the {} to tell it what on earth to do
