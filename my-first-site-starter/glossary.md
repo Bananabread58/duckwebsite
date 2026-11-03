@@ -50,3 +50,9 @@ cursor: The mouse's pointer
 Function: Instructions to run when you need it.
 Call: Calls the function over and whips it to work
 function body: the instructions inside the {} to tell it what on earth to do
+
+#week 3, Thursday (JS)
+Event: When something happens
+Event listener: It waits for the event to happen and calls a function over when it does
+add EventListener: Adds a event listner to an element 
+
