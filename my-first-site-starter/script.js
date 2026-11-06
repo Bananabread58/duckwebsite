@@ -27,5 +27,5 @@ function showMessage() {
     document.querySelector("#h1").textContent = "Sup brochachino, welcome to ${siteName} my dude";
 }
 
-const showMessage = document.querySelector("#hero-button");
+const heroTitle = document.querySelector("#hero-button");
 heroButton.addEventListener("click", showMessage)
