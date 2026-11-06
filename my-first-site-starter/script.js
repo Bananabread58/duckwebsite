@@ -2,7 +2,7 @@
 const siteName = "Duck";
 
 // TODO 2 (Thursday): make a variable called visitCount holding a number.
-let visitCount = 10; 
+let visitCount = 10;
 showNewLabel = false
 
 
@@ -20,11 +20,11 @@ document.querySelector(".new-label").hidden = !showNewLabel;
 document.querySelector("h1").textContent = "Whats up?";
 
 
-const heroTitle = "#h1";
+const heroTitle = document.querySelector("#h1");
 heroTitle.textContent = `${heroTitle} Hi welcome to this page`
 
 function showMessage() {
-    showNewMessage = document.querySelector("#hero-message")
+    const showNewMessage = document.querySelector("#hero-message");
     showNewMessage.textContent = `Sup brochachino, welcome to ${siteName} my dude`;
 }
 
