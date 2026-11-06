@@ -20,8 +20,8 @@ document.querySelector(".new-label").hidden = !showNewLabel;
 document.querySelector("h1").textContent = "Whats up?";
 
 
-const heroTitle = document.querySelector("#h1");
-heroTitle.textContent = `${heroTitle} Hi welcome to this page`
+const heroTitle = document.querySelector("h1");
+heroTitle.textContent = ` Hi welcome to this page`
 
 function showMessage() {
     const showNewMessage = document.querySelector("#hero-message");
