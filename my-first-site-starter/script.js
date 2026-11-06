@@ -21,10 +21,10 @@ document.querySelector("h1").textContent = "Whats up?";
 
 
 const heroTitle = "#h1";
-heroTitle.textContent = '${heroTitle}Hi welcome to this page'
+heroTitle.textContent = `${heroTitle}Hi welcome to this page`
 
 function showMessage() {
-    document.querySelector("#hero-message").textContent = 'Sup brochachino, welcome to ${siteName} my dude';
+    document.querySelector("#hero-message").textContent = `Sup brochachino, welcome to ${siteName} my dude`;
 }
 
 const heroMessage = document.querySelector("#hero-button");
